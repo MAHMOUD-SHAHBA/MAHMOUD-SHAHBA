@@ -39,7 +39,7 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 ### 🔹 ETL Pipeline Project
 - Built a scalable ETL pipeline using Python & PostgreSQL  
 - Automated workflow with Docker  
-- [GitHub Repo Link](https://github.com/MAHMOUD-SHAHBA/Employee_Management_System_Python.git)  
+- [Employee-Management-System](https://github.com/MAHMOUD-SHAHBA/Employee_Management_System_Python.git)  
 
 ### 🔹 Full-Stack Data App
 - Backend: Spring Boot / Node.js  
