@@ -45,7 +45,7 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 - Backend: Spring Boot / Node.js  
 - Frontend: React / Next.js  
 - Deployed on AWS with CI/CD pipelines  
-- [GitHub Repo Link](#)  
+- [GitHub Repo Link]()  
 
 ### 🔹 Analytics Dashboard
 - Visualized real-world data using Python & Tableau  
