@@ -1,6 +1,4 @@
-## Hi 
-
-# 👋 Hi, I'm MAHMOUD SHAHBA
+#  Hi, I'm MAHMOUD SHAHBA
 
 🎯 **Data Engineer with a strong mathematics background**  
 I build scalable data pipelines, backend systems, and cloud solutions.  
