@@ -50,8 +50,9 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 ### 🔹 Analytics Dashboard
 - Visualized real-world data using Python & Tableau  
 - Interactive dashboards with actionable insights  
-- [GitHub Repo Link](https://github.com/MAHMOUD-SHAHBA/Blinkit--Analysis.git)
-- - [GitHub Repo Link](https://github.com/MAHMOUD-SHAHBA/Pizza_Sales_Pandas.git) 
+- [Blinkit-Analysis](https://github.com/MAHMOUD-SHAHBA/Blinkit--Analysis.git)
+- [Oizza-Sales-Analysis](https://github.com/MAHMOUD-SHAHBA/Pizza_Sales_Pandas.git)
+- [London_Bike](https://github.com/MAHMOUD-SHAHBA/London-Bike-Analysis.git)
 
 ---
 
