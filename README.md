@@ -66,7 +66,7 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 ## 🌍 Connect With Me
 - 💼 LinkedIn: [Your LinkedIn](#)  
 - 📧 Email: ds.m.sh.777@gmail.com  
-- 🐦 WhatsApp: [+201008040778](#)  
+- 🟢 WhatsApp: +20 100 804 0778  
 
 ---
 
