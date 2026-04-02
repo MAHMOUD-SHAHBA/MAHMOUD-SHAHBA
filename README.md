@@ -39,7 +39,7 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 ### 🔹 ETL Pipeline Project
 - Built a scalable ETL pipeline using Python & PostgreSQL  
 - Automated workflow with Docker  
-- [GitHub Repo Link](#)  
+- [GitHub Repo Link](https://github.com/MAHMOUD-SHAHBA/Employee_Management_System_Python.git)  
 
 ### 🔹 Full-Stack Data App
 - Backend: Spring Boot / Node.js  
@@ -50,7 +50,8 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 ### 🔹 Analytics Dashboard
 - Visualized real-world data using Python & Tableau  
 - Interactive dashboards with actionable insights  
-- [GitHub Repo Link](#)  
+- [GitHub Repo Link](https://github.com/MAHMOUD-SHAHBA/Blinkit--Analysis.git)
+- - [GitHub Repo Link](https://github.com/MAHMOUD-SHAHBA/Pizza_Sales_Pandas.git) 
 
 ---
 
@@ -63,8 +64,8 @@ AWS | Docker | Jenkins | Terraform | Linux | Git
 
 ## 🌍 Connect With Me
 - 💼 LinkedIn: [Your LinkedIn](#)  
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [Optional](#)  
+- 📧 Email: ds.m.sh.777@gmail.com  
+- 🐦 WhatsApp: [+201008040778](#)  
 
 ---
 
