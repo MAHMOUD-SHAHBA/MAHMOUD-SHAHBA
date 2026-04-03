@@ -30,6 +30,7 @@ I design and build **scalable data systems, backend architectures, and cloud sol
 ### ⚡ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Django] ()
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
