@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MAHMOUD SHAHBA
+## Hi, I'm MAHMOUD SHAHBA
 
 🎯 **Data Engineer | Backend Developer | Mathematics Expert**
 
