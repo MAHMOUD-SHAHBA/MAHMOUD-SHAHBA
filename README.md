@@ -31,8 +31,6 @@ I design and build **scalable data systems, backend architectures, and cloud sol
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-!####[Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-!####[Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ### 🌐 Frontend
@@ -46,8 +44,9 @@ I design and build **scalable data systems, backend architectures, and cloud sol
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Kubernetes](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Linux & Bash](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
