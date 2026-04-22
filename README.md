@@ -1,6 +1,6 @@
 ## Hi, I'm MAHMOUD SHAHBA
 
-🎯 **Data Engineer | Backend Developer | Mathematics Expert**
+🎯 **Data Analyst | Backend Developer | Mathematics Expert**
 
 I design and build **scalable data systems, backend architectures, and cloud solutions** — combining 25+ years of mathematical expertise with modern engineering.
 
@@ -8,7 +8,7 @@ I design and build **scalable data systems, backend architectures, and cloud sol
 
 ## 🧠 About Me
 - 📊 25+ years in **Mathematics & Statistics**
-- 🔧 Specialized in **Data Engineering & Backend Systems**
+- 🔧 Specialized in **Data Analysis & Backend Systems**
 - ☁️ Passionate about **Cloud & DevOps**
 - 🚀 Transitioning into **Machine Learning Engineering**
 
